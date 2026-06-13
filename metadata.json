@@ -1,0 +1,6 @@
+{
+  "name": "Adivina el Tiempo (Испанский язык)",
+  "description": "3D-игра для двух игроков: прослушайте испанскую фразу и угадайте грамматическое время (настоящее, прошедшее или будущее).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
